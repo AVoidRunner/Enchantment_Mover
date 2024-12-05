@@ -1,0 +1,8 @@
+main: me.Mastervrunner.MoveEnchantClean.Main
+name: MoveEnchant
+version: 1.0
+author: Me - MasterV
+api-version: 1.13
+   
+commands:
+  MoveEnchant: 
